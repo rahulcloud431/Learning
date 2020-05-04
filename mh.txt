@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mansion square
+=======
+mansion cube
+>>>>>>> 8b986e3692ac6004cd842487c97825c1b128d12b
